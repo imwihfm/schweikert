@@ -1,1 +1,1 @@
-# schweikert
+# Margarete Voigt-Schweikert
