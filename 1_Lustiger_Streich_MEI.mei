@@ -44,6 +44,7 @@
                </scoreDef>
                <section xml:id="s1">
                   <measure xml:id="m1sd61ti" metcon="false" n="1">
+                     <annot xml:id="as66w5l1" plist="#dg96zjb #r9b5lo6 #nkxtpqy #n6wac32 #sp9cg1p">Der erste Takt</annot>
                      <staff xml:id="m1s1" n="1">
                         <layer xml:id="m1s1l1" n="1">
                            <rest xml:id="r9b5lo6" type="mscore-beam-none" dur="8" />
@@ -192,6 +193,10 @@
                   <measure xml:id="meaj04x" n="6">
                      <staff xml:id="m6s1" n="1">
                         <layer xml:id="m6s1l1" n="1">
+                           <annot xml:id="ajazrsq1" plist="#rxxgy5r #n1mc79lw #s13kn99t #n1nc18ru #n3vetjt #a1yda3qf #r42zcwl">Der 5. Takt</annot>
+                           <annot xml:id="altv72l2" plist="#rxxgy5r #n1mc79lw #s13kn99t #n1nc18ru #n3vetjt #a1yda3qf #r42zcwl">
+                              <ptr xml:id="ptr--f6cl271" target="https://github.com/imwihfm/schweikert.git"/>
+                           </annot>
                            <rest xml:id="rxxgy5r" type="mscore-beam-none" dur="8" />
                            <beam>
                               <note xml:id="n1mc79lw" dur="16" pname="e" oct="5" />
@@ -225,6 +230,7 @@
                   <measure xml:id="mc5kgyg" n="7">
                      <staff xml:id="m7s1" n="1">
                         <layer xml:id="m7s1l1" n="1">
+                           <annot xml:id="a7lj9yw1" plist="#rvrc007 #nhttisw #s19gzf0g #n10w578f #n1m907bj #ag99q7k"/>
                            <rest xml:id="rvrc007" type="mscore-beam-none" dur="8" />
                            <beam>
                               <note xml:id="nhttisw" dur="16" pname="e" oct="5" />
