@@ -5,3 +5,4 @@
 
 TODO:
 - Mei-friend zeigt die Texte nicht
+- Facsimile wird nicht angezeigt
