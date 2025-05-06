@@ -1,4 +1,7 @@
 /* A Free Design by Bryant Smith (bryantsmith.com) */
+:root {
+    --pagewidth: 800px;
+}
 
 body {
 	margin: 0;
@@ -42,7 +45,7 @@ padding-top:15px;
 #main
 {
 /* width:641px; */
-width:100%;
+width: var(--pagewidth);
 height:auto;
 padding-bottom:20px;
 }
@@ -51,7 +54,8 @@ padding-bottom:20px;
 {
 color:#ffffff;
 clear:both;
-width:641px;
+/* width:641px; */
+width: var(--pagewidth);
 height:25px;
 background-image:url(header_footer.png);
 background-repeat:no-repeat;
@@ -75,7 +79,8 @@ line-height:25px;
 color:#ffffff;
 font-size:10px;
 clear:both;
-width:641px;
+/* width:641px; */
+width: var(--pagewidth);
 height:25px;
 background-image:url(header_footer.png);
 background-repeat:no-repeat;
