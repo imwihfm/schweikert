@@ -1,6 +1,6 @@
 /* A Free Design by Bryant Smith (bryantsmith.com) */
 :root {
-    --pagewidth: 800px;
+    --mainwidth: 641px;
 }
 
 body {
@@ -45,7 +45,7 @@ padding-top:15px;
 #main
 {
 /* width:641px; */
-width: var(--pagewidth);
+width: var(--mainwidth);
 height:auto;
 padding-bottom:20px;
 }
@@ -55,7 +55,7 @@ padding-bottom:20px;
 color:#ffffff;
 clear:both;
 /* width:641px; */
-width: var(--pagewidth);
+width: var(--mainwidth);
 height:25px;
 background-image:url(header_footer.png);
 background-repeat:no-repeat;
@@ -80,7 +80,7 @@ color:#ffffff;
 font-size:10px;
 clear:both;
 /* width:641px; */
-width: var(--pagewidth);
+width: var(--mainwidth);
 height:25px;
 background-image:url(header_footer.png);
 background-repeat:no-repeat;
