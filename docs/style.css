@@ -45,10 +45,11 @@ padding-top:15px;
 
 #main
 {
-/* width:641px; */
-width: var(--mainwidth);
-height:auto;
-padding-bottom:20px;
+    /* width:641px; */
+    /* width: var(--mainwidth); */
+    width: auto;
+    height:auto;
+    padding-bottom:20px;
 }
 
 #header
