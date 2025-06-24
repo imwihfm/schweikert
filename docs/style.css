@@ -158,6 +158,7 @@ ul,  li
 {
 text-align:center;
 padding:3px;
+list-style-type: none;
 /* list-style-image:url(link_image.png); */
 }
 
